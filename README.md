@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bright-99gekyume
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning computer hardware technology
+- 👀 I’m software developer
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me +233 274277240
 
