@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bright-99gekyume
-- 👀 I’m software developer
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me +233 274277240
+- 👋
+- 👀
+- 💞️
+- 📫
 
 <!---
 bright-99gekyume/bright-99gekyume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
